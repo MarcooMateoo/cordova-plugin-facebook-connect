@@ -8,12 +8,12 @@
 //  Updated by David Dal Busco on 21/Apr/2018 - Facebook doesn't support App Invites anymore
 //  Copyright 2011 Nitobi. All rights reserved.
 //
-@import FBSDKCoreKit; 
+
 
 #import <Foundation/Foundation.h>
-// #import <FBSDKCoreKit/FBSDKCoreKit.h>
-// #import <FBSDKLoginKit/FBSDKLoginKit.h>
-// #import <FBSDKShareKit/FBSDKShareKit.h>
+#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import <FBSDKLoginKit/FBSDKLoginKit.h>
+#import <FBSDKShareKit/FBSDKShareKit.h>
 #import <Cordova/CDV.h>
 #import "AppDelegate.h"
 
